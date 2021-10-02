@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\Khóa altium_diviot\prj_arduno_uno_Cong\PCB_arduino_uno_cong_polygon.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_arduino_uno_cong_polygon-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_arduino_uno_cong_polygon-slotholes.txt|DrillLayers=gtl,gbl

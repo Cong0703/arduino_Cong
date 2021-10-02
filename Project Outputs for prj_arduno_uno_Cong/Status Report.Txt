@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [prj_arduno_uno_Cong.PrjPcb]
+   Generated File[PCB_arduino_uno_cong_polygon-RoundHoles.TXT]
+   Generated File[PCB_arduino_uno_cong_polygon-SlotHoles.TXT]
+   Generated File[PCB_arduino_uno_cong_polygon.LDP]
+   Generated File[PCB_arduino_uno_cong_polygon.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:22:37 pm On 16/9/2021
